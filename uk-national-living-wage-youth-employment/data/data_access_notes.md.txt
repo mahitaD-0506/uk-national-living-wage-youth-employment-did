@@ -1,0 +1,9 @@
+# Data Access Notes
+
+This project uses the UK Labour Force Survey Two-Quarter Longitudinal Datasets for 2013–2015 and 2017–2018, accessed through the UK Data Service.
+
+The raw data is not included in this repository because access may be subject to licensing restrictions.
+
+To reproduce the analysis, users should obtain the relevant Labour Force Survey longitudinal datasets through the UK Data Service and run the Stata do-file contained in the `code/` folder.
+
+The cleaned dataset is also not included publicly unless permitted by the relevant data licence.
